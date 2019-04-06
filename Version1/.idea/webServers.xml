@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="458ee13a-6510-400b-ae7d-9b0b43491a94" name="aliyun" url="http://47.106.69.227">
+        <fileTransfer host="47.106.69.227" port="21" rootFolder="/www/server/tomcat/webapps" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

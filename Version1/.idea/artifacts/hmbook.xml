@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hmbook">
+    <output-path>$PROJECT_DIR$/../</output-path>
+    <root id="archive" name="hmbook.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      <element id="module-output" name="Version1" />
+    </root>
+  </artifact>
+</component>
